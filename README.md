@@ -1,22 +1,22 @@
-# Nifemi — founder of Nuvixes
+# Nifemi — product engineer building onchain systems and AI infrastructure
 
-I build custom websites, digital products, AI experiences, and onchain systems. At [Nuvixes](https://nuvixes.studio/), design and engineering come together, from the first idea to a working experience.
+I turn difficult trust, identity, and coordination problems into working products. My work sits where protocol engineering meets clear product design: smart contracts, agent tooling, evidence systems, and interfaces people can actually use.
 
-Based in Lagos and working globally.
+Based in Lagos, working globally through [Nuvixes](https://nuvixes.studio/).
 
-[Explore Nuvixes](https://nuvixes.studio/) · [Project stories](https://nuvixes.studio/work) · [X](https://x.com/Love_Light_11) · [Project enquiries](mailto:sky@nuvixes.studio)
+## Selected work
 
-## Selected projects
+- [Mintmark](https://github.com/Nifemi0/mintmark) — Evidence-first registry for tokenized stocks on BNB Smart Chain. Search by a familiar company, then verify the exact contract, issuer, source, and data coverage.
+- [Manda](https://github.com/Nifemi0/manda) — Human-owned payment identity with bounded AI agent authority across onchain payments.
+- [Ver](https://github.com/Nifemi0/Ver) — Deterministic protocol intelligence and wallet-safe preparation for onchain operations.
+- [Postbell](https://github.com/Nifemi0/postbell) — Overnight market research with source-linked catalysts and risk context, without trade execution.
+- [Onchain-2FA](https://github.com/Nifemi0/Onchain-2FA) — Smart-account recovery and two-factor controls for safer onchain access.
+- [AgentWatch](https://github.com/Nifemi0/agentwatch) — Security observability for AI agents, tool calls, and policy boundaries.
 
-| Project | Focus | Build story |
-| --- | --- | --- |
-| [Manda](https://github.com/Nifemi0/manda) | Human-controlled agent payment permissions | [Design and development](https://nuvixes.studio/projects/manda) |
-| [Ver](https://github.com/Nifemi0/Ver) | Deterministic protocol intelligence and wallet-safe preparation | [Design and development](https://nuvixes.studio/projects/ver) |
-| [Emberline](https://github.com/Nifemi0/Emberline) | Milestone funding and evidence-based accountability | [Design and development](https://nuvixes.studio/projects/emberline-attest) |
-| [Crash Lab](https://github.com/Nifemi0/bot-chain-crash-lab) | Evidence-grounded smart-contract investigation | [Design and development](https://nuvixes.studio/projects/crash-lab) |
-| [Downrail](https://github.com/Nifemi0/downrail) | Conditional downside hedging | [Design and development](https://nuvixes.studio/projects/downrail) |
-| [Scholarship Scout](https://github.com/Nifemi0/scholarship-scout) | Source-transparent scholarship discovery | [Design and development](https://nuvixes.studio/projects/scholarship-scout) |
-| [Postbell](https://github.com/Nifemi0/postbell) | Overnight market research without trade execution | [Design and development](https://nuvixes.studio/projects/postbell) |
-| [Trestle](https://github.com/Nifemi0/Trestle) | Testnet cross-chain USDT bridge, under development | [Design and development](https://nuvixes.studio/projects/trestle) |
+## What I work with
 
-Repository documentation records each project's implementation boundaries and verification evidence. Prototypes and testnet deployments are not claims of mainnet readiness.
+Solidity · TypeScript · JavaScript · Python · Node.js · React · MCP · EVM chains · Binance Web3 APIs · BSC · Arbitrum
+
+I care about reproducible systems, explicit boundaries, source-linked claims, and shipping a complete user path from the first question to a verifiable result.
+
+[Portfolio](https://nuvixes.studio/work) · [X](https://x.com/Love_Light_11) · [Telegram](https://t.me/love_light_111) · [Email](mailto:sky@nuvixes.studio)
